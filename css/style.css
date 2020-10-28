@@ -1,0 +1,144 @@
+.bar-santi {
+  background-color: white !important;
+}
+.bar-santi .title1 {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 27px;
+}
+.bar-santi .menu-bar a:hover {
+  color: #b56576 !important;
+}
+
+.banner {
+  background-image: url(../imagenes/banner/primera.jpg);
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 50px;
+}
+.banner .container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.banner .container .row {
+  min-height: 87vh;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.banner .container .row .btn {
+  padding: 15px 40px;
+  margin-right: 20px;
+  background: transparent;
+  color: #fff;
+  border: 2px solid #ffff;
+  text-transform: uppercase;
+  font-size: 15px;
+  font-weight: 600;
+}
+.banner .container .row .btn:hover {
+  background-color: #fff;
+  color: black !important;
+}
+
+.section {
+  padding: 100px 0px 120px;
+}
+.section .container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.section .container .row .btn {
+  padding: 15px 40px;
+  background: transparent;
+  color: #212121;
+  border: 2px solid #212121;
+  text-transform: uppercase;
+  font-size: 15px;
+  font-weight: 600;
+  margin-top: 20px;
+}
+.section .container .row .btn:hover {
+  background: #212121;
+  color: #fbfbfb;
+  border: 2px solid #212121;
+}
+.section .container .row .proyectos-title {
+  font-size: 35px;
+  font-family: "Montserrat", sans-serif;
+}
+.section .container .row .proyectos-texts {
+  font-size: 17px;
+  font-family: "Montserrat", sans-serif;
+}
+.section .container .servicios .row {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.team {
+  padding: 50px 0px 120px;
+  background-color: #F8F8F8;
+}
+.team .container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.team .container .row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+.team .container .row .text-center {
+  text-align: center !important;
+}
+.team .container .row .title-team {
+  font-size: 45px;
+  font-family: "Montserrat", sans-serif;
+  margin-bottom: 50px;
+}
+.team .container .row h5 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.spotlight-portfolio {
+  background: #fff;
+  padding-bottom: 150px;
+}
+.spotlight-portfolio .container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.spotlight-portfolio .container .row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+.spotlight-portfolio .container .row .items {
+  margin-top: 0px !important;
+  position: relative;
+  padding: 0px !important;
+}
+.spotlight-portfolio .container .row .title-work {
+  font-size: 45px;
+  font-family: "Montserrat", sans-serif;
+  margin-bottom: 50px;
+}
+
+/*# sourceMappingURL=style.css.map */
